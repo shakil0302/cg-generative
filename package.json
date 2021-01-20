@@ -1,0 +1,22 @@
+{
+  "name": "cg-generative",
+  "version": "1.0.0",
+  "description": "Procedural image generation in GPU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakil0302/cg-generative.git"
+  },
+  "author": "Shakil Ahamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakil0302/cg-generative/issues"
+  },
+  "homepage": "https://github.com/shakil0302/cg-generative#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
